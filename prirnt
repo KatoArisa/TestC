@@ -1,0 +1,8 @@
+include <stdio.h>
+
+void main(){
+	int x = 4;
+	
+	printf("Hello World");
+	printf("x = \n, x + 3 = \n", x, x + 3);
+}
